@@ -1,4 +1,68 @@
-logo{
-   height: auto;
-   width: auto;
+.logo{
+  padding: 15px;
+  margin-left: 15px;
+  margin-top: 15px;
+  text-align: center;
+  float: left;
+}
+
+.list{
+  list-style: none;
+  float: left;
+}
+
+.li1{
+  float: left;
+  padding: 15px;
+}
+.li2{
+  float: left;
+  padding: 15px;
+}
+.li3{
+  float: left;
+  padding: 15px;
+}
+
+.search-bar{
+  margin: 15px 10px 15px 15px;
+}
+
+.search-btn{
+  border: 2px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 15px 15px 15px 0px;
+}
+
+.second-header{
+  /*padding: none;
+  margin: 5px;*/
+  width: 1800;
+  height:900px;
+}
+
+.block2{
+  float: left;
+  align-items: center;
+}
+
+.product2-btn{
+  float: none;
+}
+
+.block1{
+  float: left;
+  align-items: center;
+}
+.product1-btn{
+  float: none;
+}
+
+.product3-btn{
+  float: none;
+}
+
+.store-blocks{
+
 }
