@@ -1,5 +1,5 @@
 # momentuma
-<day1>
+<!--<day1>-->
 
 August 25 2017 [4:27pm]
 
